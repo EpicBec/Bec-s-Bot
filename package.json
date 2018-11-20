@@ -2,9 +2,9 @@
   "name": "Test",
   "description": "Test",
   "version": "0.0.0",
-  "main": "bot.js",
+  "main": "BecsBot.js",
   "scripts": {
-    "start": "node bot.js"
+    "start": "node BecsBot.js"
   },
   "dependencies": {
     "discord.js": "11.1.0",
